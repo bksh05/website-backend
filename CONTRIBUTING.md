@@ -1,5 +1,3 @@
-# Change 2
-
 # Contributing to Real Dev Squad API
 
 - [Getting Started](#getting-started)
